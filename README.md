@@ -2,7 +2,7 @@
 
 Welcome to the **3D Ant Colony Simulation** project! This simulation visualizes the behavior of ants in a colony using Three.js, showcasing their movement and interactions in a 3D environment.
 
-![Ant Colony Simulation](path/to/your/screenshot.png)
+![Ant Colony Simulation](https://media.licdn.com/dms/image/v2/D5622AQH2mr7Q2NI0Uw/feedshare-shrink_800/B56ZVJxOvcGsAg-/0/1740699397880?e=1743638400&v=beta&t=yBQ2lIkJPmnIlOy5SezYHKR8pb8kWeWYDcdZkpb-wpQ)
 
 ## 📋 Table of Contents
 
